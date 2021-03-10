@@ -1,0 +1,5 @@
+let date1 = new Date(2019, 0, 1)
+let date2 = new Date().toString()
+console.log(date1)
+console.log(date2)
+console.log(date1.toDateString())
