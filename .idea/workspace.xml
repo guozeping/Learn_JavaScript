@@ -2,14 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4b084a4-6403-4f98-ba39-4723143b26c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/010-函数/001-函数定义.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/010-函数/002-箭头函数.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/010-函数/003-函数参数.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/010-函数/004-函数默认参数值.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/010-函数/005-函数声明提升.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/010-函数/006-函数-函数作为值.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/010-函数/007-函数-函数内部.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/函数/001.js" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/010-函数/001.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010-函数/008-函数-属性和方法.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010-函数/009-函数表达式.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010-函数/010-函数-闭包.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010-函数/011-函数-尾部掉调用优化.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010-函数/012-函数-立即用的函数表达式子.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010-函数/013-函数-私有变量.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010-期约与异步函数/001.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010-期约与异步函数/002.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/010-函数/007-函数-函数内部.js" beforeDir="false" afterPath="$PROJECT_DIR$/010-函数/007-函数-函数内部.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,29 +52,29 @@
       <recent name="$PROJECT_DIR$/基本引用类型" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.007-函数-函数内部.js">
-    <configuration name="003-函数参数.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/010-函数/003-函数参数.js" working-dir="$PROJECT_DIR$/010-函数">
+  <component name="RunManager" selected="Node.js.002.js">
+    <configuration name="001.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/010-期约与异步函数/001.js" working-dir="$PROJECT_DIR$/010-期约与异步函数">
       <method v="2" />
     </configuration>
-    <configuration name="004-函数默认参数值.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/010-函数/004-函数默认参数值.js" working-dir="$PROJECT_DIR$/010-函数">
+    <configuration name="001.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/010-函数/001.js" working-dir="$PROJECT_DIR$/010-函数">
       <method v="2" />
     </configuration>
-    <configuration name="005-函数声明提升.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/010-函数/005-函数声明提升.js" working-dir="$PROJECT_DIR$/010-函数">
+    <configuration name="002.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/010-期约与异步函数/002.js" working-dir="$PROJECT_DIR$/010-期约与异步函数">
       <method v="2" />
     </configuration>
-    <configuration name="006-函数-函数作为值.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/010-函数/006-函数-函数作为值.js" working-dir="$PROJECT_DIR$/010-函数">
+    <configuration name="010-函数-闭包.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/010-函数/010-函数-闭包.js" working-dir="$PROJECT_DIR$/010-函数">
       <method v="2" />
     </configuration>
-    <configuration name="007-函数-函数内部.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/010-函数/007-函数-函数内部.js" working-dir="$PROJECT_DIR$/010-函数">
+    <configuration name="013-函数-私有变量.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/010-函数/013-函数-私有变量.js" working-dir="$PROJECT_DIR$/010-函数">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.007-函数-函数内部.js" />
-        <item itemvalue="Node.js.006-函数-函数作为值.js" />
-        <item itemvalue="Node.js.005-函数声明提升.js" />
-        <item itemvalue="Node.js.004-函数默认参数值.js" />
-        <item itemvalue="Node.js.003-函数参数.js" />
+        <item itemvalue="Node.js.002.js" />
+        <item itemvalue="Node.js.001.js (1)" />
+        <item itemvalue="Node.js.001.js" />
+        <item itemvalue="Node.js.010-函数-闭包.js" />
+        <item itemvalue="Node.js.013-函数-私有变量.js" />
       </list>
     </recent_temporary>
   </component>
@@ -84,7 +87,9 @@
       <option name="presentableId" value="Default" />
       <updated>1615281857313</updated>
       <workItem from="1615281858510" duration="1716000" />
-      <workItem from="1615287075449" duration="26993000" />
+      <workItem from="1615287075449" duration="31298000" />
+      <workItem from="1615773868560" duration="219000" />
+      <workItem from="1615774199437" duration="8224000" />
     </task>
     <servers />
   </component>
