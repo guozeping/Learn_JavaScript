@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4b084a4-6403-4f98-ba39-4723143b26c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/010-函数/001.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/010-函数/008-函数-属性和方法.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/010-函数/009-函数表达式.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/010-函数/010-函数-闭包.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/010-函数/011-函数-尾部掉调用优化.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/010-函数/012-函数-立即用的函数表达式子.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/010-函数/013-函数-私有变量.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/010-期约与异步函数/001.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/010-期约与异步函数/002.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/012-BOM/001.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/010-函数/007-函数-函数内部.js" beforeDir="false" afterPath="$PROJECT_DIR$/010-函数/007-函数-函数内部.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +35,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -53,13 +45,13 @@
     </key>
   </component>
   <component name="RunManager" selected="Node.js.002.js">
-    <configuration name="001.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/010-期约与异步函数/001.js" working-dir="$PROJECT_DIR$/010-期约与异步函数">
-      <method v="2" />
-    </configuration>
     <configuration name="001.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/010-函数/001.js" working-dir="$PROJECT_DIR$/010-函数">
       <method v="2" />
     </configuration>
-    <configuration name="002.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/010-期约与异步函数/002.js" working-dir="$PROJECT_DIR$/010-期约与异步函数">
+    <configuration name="001.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/011-期约与异步函数/001.js" working-dir="$PROJECT_DIR$/011-期约与异步函数">
+      <method v="2" />
+    </configuration>
+    <configuration name="002.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/011-期约与异步函数/002.js" working-dir="$PROJECT_DIR$/011-期约与异步函数">
       <method v="2" />
     </configuration>
     <configuration name="010-函数-闭包.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/010-函数/010-函数-闭包.js" working-dir="$PROJECT_DIR$/010-函数">
@@ -89,7 +81,7 @@
       <workItem from="1615281858510" duration="1716000" />
       <workItem from="1615287075449" duration="31298000" />
       <workItem from="1615773868560" duration="219000" />
-      <workItem from="1615774199437" duration="8224000" />
+      <workItem from="1615774199437" duration="8514000" />
     </task>
     <servers />
   </component>
